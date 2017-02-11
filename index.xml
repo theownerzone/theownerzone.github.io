@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Beautiful Hugo</title>
+    <title>The Owner Zone</title>
     <link>https://theownerzone.github.io/index.xml</link>
-    <description>Recent content on Beautiful Hugo</description>
+    <description>Recent content on The Owner Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <managingEditor>gohnjalt@gmail.com (Some Person)</managingEditor>
+    <webMaster>gohnjalt@gmail.com (Some Person)</webMaster>
     <atom:link href="https://theownerzone.github.io/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
